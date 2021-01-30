@@ -1,17 +1,4 @@
-# Summary
+# Table of contents
 
-* [爱天文](README.md)
-* [终于要讲到病毒了](pages/20200322.md)
-* [Leap Day](pages/20200301.md)
-* [写一点](pages/20200218.md)
-* [生活暂停，思维继续](pages/20200216.md)
-* [русски](pages/20200212.md)
-* [50颗亮恒星](pages/20191117.md)
-* [表格：一些亮星的亮度与距离](pages/20191109.md)
-* [晨间对话](pages/20191107.md)
-* [Modern City](pages/2019-10-26.md)
-    * [Debug](pages/2019-10-26-debug.md)
-* [2019年9月：一开始](pages/index.md)
-* [2018年](pages/2018-04.md)
-* [2017年](pages/2017.md)
-* [面包](pages/20200309.md)
+* [Initial page](README.md)
+
